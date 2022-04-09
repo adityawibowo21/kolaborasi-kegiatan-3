@@ -17,5 +17,6 @@ int main() {
   output.getData();
   output.cetak();
 
+
   return 0;
 }
